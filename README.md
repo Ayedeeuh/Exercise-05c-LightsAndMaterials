@@ -2,10 +2,12 @@
 
 
 ## Implementation
+10 different textures 
+Lighting
 
 ## References
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Adia Holt
